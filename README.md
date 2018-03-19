@@ -1,0 +1,2 @@
+# Tigo-Music-Ghana
+Millicom Ghana Limited (Tigo) is a mobile telecommunication services provider, which offers unlimited music streaming service through the Tigo Music Hub.   Tigo Ghana partnered with Fifth Light Media to design and develop the Tigo Music Hub. This is a custom built website which is linked to the Deezer music streaming service to provide users access to Deezer’s music database as well as other music and video content.
